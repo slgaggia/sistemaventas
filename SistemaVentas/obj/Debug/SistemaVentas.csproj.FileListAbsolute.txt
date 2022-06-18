@@ -1,0 +1,120 @@
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\SistemaVentas.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\csc.exe
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\csi.exe
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\SistemaVentas\bin\CapaModelo.pdb
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.pdb
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.pdb
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+F:\Descargas\Repos\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
